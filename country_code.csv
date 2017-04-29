@@ -1,0 +1,261 @@
+Country,Code
+Bahamas,BHS
+South Africa,ZAF
+Nigeria,NGA
+Nicaragua,NIA
+Libya,LBY
+Cayman Islands,CYM
+Myanmar,MMR
+Austria,AUT
+Reunion,REU
+Barbados,BRB
+Hong Kong,HKG
+Saint Helena,SHN
+Slovakia,SVK
+Montenegro,MNE
+Bonaire,BES
+Namibia,NAM
+American Samoa,ASM
+Virgin Islands,VGB
+Turksand Caicos Islands,TCA
+Western Sahara,ESH
+Trinidad and Tobago,TTO
+Spain,ESP
+Montserrat,MSR
+Panama,PAN
+Nepal,NPL
+Holy See(VaticanCityState),VAT
+Lebanon,LBN
+Chad,TCD
+Iceland,ISL
+French Southern Territories,ATF
+Guam,GUM
+Syrian Arab Republic,SYR
+Madagascar,MDG
+Christmas Island,CXR
+Sudan,SDN
+Norfolk Island,NFK
+Congo,COG
+Haiti,HTI
+Bulgaria,BGR
+Mozambique,MOZ
+Kenya,KEN
+BurkinaFaso,BFA
+Seychelles,SYC
+Sao Tome and Principe,STP
+Liechtenstein,LIE
+United Arab Emirates,ARE
+Botswana,BWA
+Portugal,PRT
+Qatar,QAT
+Svalbard and JanMayen,SJM
+Poland,POL
+South Sudan,SSD
+Switzerland,CHE
+Guernsey,GGY
+Sint Maarten(Dutchpart),SXM
+Indonesia,IDN
+Tunisia,TUN
+Cameroon,CMR
+Central African Republic,CAF
+Germany,DEU
+Andorra,AND
+SriLanka,LKA
+Federated States of Micronesia,FSM
+Somalia,SOM
+Ascension and Tristanda Cunha,SHN
+Peru,PER
+Mali,MLI
+Saint Eustatius and Saba,BES
+Vanuatu,VUT
+Uzbekistan,UZB
+U.S. Virgin Islands,VIR
+Iraq,IRQ
+New Zealand,NZL
+Equatorial Guinea,GNQ
+Mauritania,MRT
+Bolivia,BOL
+Kuwait,KWT
+Marshall Islands,MHL
+Jersey,JEY
+Isle of Man,IMN
+Angola,AGO
+India,IND
+Uruguay,URY
+South Georgia and the South Sandwich Islands,SGS
+Egypt,EGY
+Antigua and Barbuda,ATG
+Martinique,MTQ
+Falkl and Islands(Malvinas),FLK
+Gabon,GAB
+Ethiopia,ETH
+Jordan,JOR
+Cambodia,KHM
+Kyrgyzstan,KGZ
+Finland,FIN
+Thailand,THA
+Saint Kitts and Nevis,KNA
+Venezuela,VEN
+Sierra Leone,SLE
+Turkey,TUR
+Swaziland,SWZ
+Bouvet Island,BVT
+Dominica,DMA
+Guyana,GUY
+Togo,TGO
+Bermuda,BMU
+Curatao,CUW
+Saint Lucia,LCA
+French Guiana,GUF
+Taiwan,TWN
+Russia,RUS
+Moldova,MDA
+Paraguay,PRY
+Al and Islands,ALA
+Lao Peoples Democratic Republic,LAO
+Congo,COG
+Bangladesh,BGD
+Colombia,COL
+Malawi,MWI
+Bhutan,BTN
+Tuvalu,TUV
+Cook Islands,COK
+Aruba,ABW
+Kazakhstan,KAZ
+Papua New Guinea,PNG
+Guatemala,GTM
+Rwanda,RWA
+Greece,GRC
+Netherlands,NLD
+Malaysia,MYS
+Singapore,SGP
+Gambia,GMB
+Honduras,HND
+Antarctica,ATA
+Comoros,COM
+Anguilla,AIA
+Malta,MLT
+Hungary,HUN
+Lesotho,LSO
+Philippines,PHL
+Senegal,SEN
+Luxembourg,LUX
+CotedIvoire,CIV
+El Salvador,SLV
+Sweden,SWE
+Timor-Leste,TLS
+Zimbabwe,ZWE
+Palestine,PSE
+Mayotte,MYT
+Bolivarian Republic of,VEN
+Pakistan,PAK
+Japan,JPN
+Albania,ALB
+Niue,NIU
+Eritrea,ERI
+Guinea,GIN
+Ukraine,UKR
+Grenada,GRD
+Bahrain,BHR
+Guinea-Bissau,GNB
+Province of China,TWN
+French Polynesia,PYF
+Argentina,ARG
+Ireland,IRL
+Fiji,FJI
+Cuba,CUB
+The Democratic Republic of the Congo,COD
+France,FRA
+Kiribati,KIR
+Vietnam,VNM
+Armenia,ARM
+San Marino,SMR
+Korea,KOR
+Slovenia,SVN
+United Kingdom,GBR
+Zambia,ZMB
+Macao,MAC
+Cabo Verde,CPV
+Saint Martin(Frenchpart),MAF
+Samoa,WSM
+Benin,BEN
+Solomon Islands,SLB
+Djibouti,DJI
+Tonga,TON
+Wallis and Futuna,WLF
+United States Minor Outlying Islands,UMI
+Macedonia,MKD
+Heard Island and McDonald Islands,HMD
+Northern Mariana Islands,MNP
+Mexico,MEX
+Jamaica,JAM
+Greenland,GRL
+United States,USA
+Saint Pierre and Miquelon,SPM
+Serbia,SRB
+Estonia,EST
+Costa Rica,CRI
+Tajikistan,TJK
+Denmark,DNK
+Stateof,PSE
+Afghanistan,AFG
+Iran,IRN
+Tanzania,TZA
+Belize,BLZ
+Algeria,DZA
+Belgium,BEL
+Oman,OMN
+British,VGB
+Pitcairn,PCN
+New Caledonia,NCL
+Dominican Republic,DOM
+Tokelau,TKL
+Yemen,YEM
+Cocos(Keeling)Islands,CCK
+Azerbaijan,AZE
+Monaco,MCO
+Mauritius,MUS
+Nauru,NRU
+Guadeloupe,GLP
+Brazil,BRA
+Italy,ITA
+Chile,CHL
+South Korea,KOR
+Cyprus,CYP
+North Cyprus,XXX
+Kosovo,XKX
+Norway,NOR
+Liberia,LBR
+Faroe Islands,FRO
+Morocco,MAR
+Republic of,MKD
+Mongolia,MNG
+Canada,CAN
+Romania,ROU
+Brunei Darussalam,BRN
+Turkmenistan,TKM
+Ghana,GHA
+Islamic Republicof,IRN
+United Republic of Tanzania,TZA
+British Indian Ocean Territory,IOT
+Burundi,BDI
+Belarus,BLR
+Saint Vincent and the Grenadines,VCT
+Gibraltar,GIB
+Australia,AUS
+China,CHN
+Suriname,SUR
+Maldives,MDV
+Croatia,HRV
+Democratic Peoples Republic of,PRK
+Palau,PLW
+Saudi Arabia,SAU
+Georgia,GEO
+Saint Bartholemy,BLM
+Niger,NER
+Uganda,UGA
+Israel,ISR
+Latvia,LVA
+Czech Republic,CZE
+Ecuador,ECU
+Lithuania,LTU
