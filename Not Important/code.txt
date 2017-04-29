@@ -1,0 +1,6 @@
+country_code = pd.read_csv('country_code.csv')
+country_code.head()
+
+happiness_report_2015['Country Code'] = happiness_report_2015['Country'].apply(lambda x: country_code.loc[x])
+
+count = happiness_report_2015['Country'] not in country_code['Country']
